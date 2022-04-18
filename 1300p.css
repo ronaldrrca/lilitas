@@ -1,0 +1,19 @@
+/* #header_container img{
+    display: none;
+} */
+
+#home_icon, #menu_icon{
+    display: none;
+}
+
+#header_container{
+    padding: 0 15rem;
+}
+
+#movil_menu{
+    display: none;
+}
+
+#dropDown_menu{
+    display: block;
+}
