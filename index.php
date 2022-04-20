@@ -13,7 +13,9 @@
     <header>
             <?php include 'header.php'?>
     </header>
-    <main>      
+    <main>
+    <a id="whatsapp_icon" href="https://wa.me/573003581311" target="_blank"> <img src="assets/icons/whatsapp.svg" alt="icono whatsapp"></a>     
+         
         <figure id="main_images_container">
             <img id="arrow_icon_left" class="arrow_icon" src="assets/icons/arrow-back.svg" alt="icono retroceder">
             <img id="arrow_icon_right" class="arrow_icon" src="assets/icons/arrow-forward.svg" alt="icono avanzar">
@@ -27,48 +29,128 @@
         <!-- <h2>Lo Nuevo</h2> -->
         <img id="new_product" src="assets/images/new-product.webp" alt="">
         <section id="recien_llegando_images">
-            <figure class="recien_llegando_card">
-                <img src="assets/images/image-1.webp" alt="">
-                <p class="product_card_info product_name">Vestido tal tal tal</p>
-                <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
-                <p class="product_card_info product_price">$30.000</p>
-            </figure>
-            <figure class="recien_llegando_card">
-                <img src="assets/images/image-2.webp" alt="">
-                <p class="product_card_info product_name">Vestido tal tal tal</p>
-                <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
-                <p class="product_card_info product_price">$30.000</p>
-            </figure>
-            <figure class="recien_llegando_card">
-                <img src="assets/images/image-3.webp" alt="">
-                <p class="product_card_info product_name">Vestido tal tal tal</p>
-                <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
-                <p class="product_card_info product_price">$30.000</p>
-            </figure>
-            <figure class="recien_llegando_card">
-                <img src="assets/images/image-4.webp" alt="">
-                <p class="product_card_info product_name">Vestido tal tal tal</p>
-                <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
-                <p class="product_card_info product_price">$30.000</p>
-            </figure>
-            <figure class="recien_llegando_card">
-                <img src="assets/images/image-5.webp" alt="">
-                <p class="product_card_info product_name">Vestido tal tal tal</p>
-                <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
-                <p class="product_card_info product_price">$30.000</p>
-            </figure>
-            <figure class="recien_llegando_card">
-                <img src="assets/images/image-6.webp" alt="">
-                <p class="product_card_info product_name">Vestido tal tal tal</p>
-                <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
-                <p class="product_card_info product_price">$30.000</p>
-            </figure>
-            <figure class="recien_llegando_card">
-                <img src="assets/images/image-7.webp" alt="">
-                <p class="product_card_info product_name">Vestido tal tal tal</p>
-                <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
-                <p class="product_card_info product_price">$30.000</p>
-            </figure>
+            <a href="swdress23210602720.php">
+                <figure class="recien_llegando_card">
+                    <img src="assets/images/swdress23210602720/swdress23210602720-1.webp" alt="Vestido bajo con fruncido de espalda abierta de estampado floral">
+                    <p class="product_card_info product_name">Vestido tal tal tal</p>
+                    <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
+                    <p class="product_card_info product_price">$30.000</p>
+                </figure>
+            </a>
+            <a href="sw2112107194014444.php">
+                <figure class="recien_llegando_card">
+                    <img src="assets/images/sw2112107194014444-1.webp" alt="vestido de baño una pieza de color combinado.">
+                    <p class="product_card_info product_name">Vestido tal tal tal</p>
+                    <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
+                    <p class="product_card_info product_price">$30.000</p>
+                </figure>
+            </a>
+            <a href="swbodysui23210429486.php">
+                <figure class="recien_llegando_card">
+                    <img src="assets/images/swbodysui23210429486-1.webp" alt="body tejido de canalé unicolor">
+                    <p class="product_card_info product_name">Vestido tal tal tal</p>
+                    <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
+                    <p class="product_card_info product_price">$30.000</p>
+                </figure>
+            </a>
+            <a href="swblouse44210609465.php">
+                <figure class="recien_llegando_card">
+                    <img src="assets/images/swblouse44210609465-1.webp" alt="camisa de cuello asimetrico">
+                    <p class="product_card_info product_name">Vestido tal tal tal</p>
+                    <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
+                    <p class="product_card_info product_price">$30.000</p>
+                </figure>
+            </a>
+            <a href="swblouse44210609465.php">
+                <figure class="recien_llegando_card">
+                    <img src="assets/images/sS2002280023500162-1.webp" alt="top corto de tirantes en abanico">
+                    <p class="product_card_info product_name">Vestido tal tal tal</p>
+                    <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
+                    <p class="product_card_info product_price">$30.000</p>
+                </figure>
+            </a>
+            <a href="sS2004170001188576.php">
+                <figure class="recien_llegando_card">
+                    <img src="assets/images/sS2004170001188576-1.webp" alt="Top de tirantes corto con diseño fruncido ribete en abanico">
+                    <p class="product_card_info product_name">Vestido tal tal tal</p>
+                    <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
+                    <p class="product_card_info product_price">$30.000</p>
+                </figure>
+            </a>
+            <a href="sw2202140006061243.php">
+                <figure class="recien_llegando_card">
+                    <img src="assets/images/sw2202140006061243-1.webp" alt="vestido unicolor con lazo trasero.">
+                    <p class="product_card_info product_name">Vestido tal tal tal</p>
+                    <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
+                    <p class="product_card_info product_price">$30.000</p>
+                </figure>
+            </a>
+            
+            <a href="sw2108139153544744.php">
+                <figure class="recien_llegando_card">
+                    <img src="assets/images/sw2108139153544744-1.webp" alt="top estampado de tirantes">
+                    <p class="product_card_info product_name">Vestido tal tal tal</p>
+                    <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
+                    <p class="product_card_info product_price">$30.000</p>
+                </figure>
+            </a>
+            <a href="vest180109702.php">
+                <figure class="recien_llegando_card">
+                    <img src="assets/images/vest180109702-1.webp" alt="top con ribete festoneado">
+                    <p class="product_card_info product_name">Vestido tal tal tal</p>
+                    <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
+                    <p class="product_card_info product_price">$30.000</p>
+                </figure>
+            </a>
+            <a href="sS2012020059046897.php">
+                <figure class="recien_llegando_card">
+                    <img src="assets/images/sS2012020059046897-1.webp" alt="Vestido ajustado tejido de canalé">
+                    <p class="product_card_info product_name">Vestido tal tal tal</p>
+                    <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
+                    <p class="product_card_info product_price">$30.000</p>
+                </figure>
+            </a>
+            <a href="sw2112021811080088.php">
+                <figure class="recien_llegando_card">
+                    <img src="assets/images/sw2112021811080088-1.webp" alt="Vestido floral de espalda abierta con lazo fruncido">
+                    <p class="product_card_info product_name">Vestido tal tal tal</p>
+                    <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
+                    <p class="product_card_info product_price">$30.000</p>
+                </figure>
+            </a>
+            <a href="sw2202212736224573.php">
+                <figure class="recien_llegando_card">
+                    <img src="assets/images/sw2202212736224573-1.webp" alt="top de tirantes con fruncido con estampado tropical de hombros con cordón con shorts">
+                    <p class="product_card_info product_name">Vestido tal tal tal</p>
+                    <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
+                    <p class="product_card_info product_price">$30.000</p>
+                </figure>
+            </a>
+            <a href="swdress23210317487.php">
+                <figure class="recien_llegando_card">
+                    <img src="assets/images/swdress23210317487-1.webp" alt="vestido bohemiio florial espalda al aire">
+                    <p class="product_card_info product_name">Vestido tal tal tal</p>
+                    <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
+                    <p class="product_card_info product_price">$30.000</p>
+                </figure>
+            </a>
+            <a href="sw2201053252676945.php">
+                <figure class="recien_llegando_card">
+                    <img src="assets/images/sw2201053252676945-1.webp" alt="Vestido de manga farol de espalda abierta con lazo">
+                    <p class="product_card_info product_name">Vestido tal tal tal</p>
+                    <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
+                    <p class="product_card_info product_price">$30.000</p>
+                </figure>
+            </a>
+            <a href="sw2112088345774072.php">
+                <figure class="recien_llegando_card">
+                    <img src="assets/images/sw2112088345774072-1.webp" alt="short con cinturon de aro">
+                    <p class="product_card_info product_name">Vestido tal tal tal</p>
+                    <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
+                    <p class="product_card_info product_price">$30.000</p>
+                </figure>
+            </a>
+        </section>
         </section>
     </main>
     <footer>

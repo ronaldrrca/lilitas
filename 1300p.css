@@ -37,3 +37,40 @@
     right: 2rem;
     cursor: pointer;
 }
+
+#socialMedia_icons img:hover{
+    transform: scale(1.07);
+    transition: all 0.3s;
+}
+
+.dropDown_menu_item:hover{
+    border-bottom: 2px solid #5E9FAB;
+    transition: all 0.2s;
+}
+
+#credits a:hover{
+    color: #EF2F5C;
+    transform: scale(1.05);
+}
+
+#whatsapp_icon img:hover{
+    transform: scale(1.05);
+    transition: all 0.2s;
+}
+
+.recien_llegando_card{
+    width: 26rem;
+}
+
+.recien_llegando_card img{
+    width: 24rem;
+}
+
+#recien_llegando_images a:hover{
+    opacity: 0.85;
+    transition: all 0.2s;
+}
+
+#product_container{
+    width: 80%;
+}

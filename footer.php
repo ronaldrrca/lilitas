@@ -7,10 +7,16 @@
     <title>Document</title>
 </head>
 <body>
+    <p id="socialMedia_title">REDES SOCIALES</p>
     <div id="socialMedia_icons">
-        <img src="assets/icons/instagram_icon.svg" alt="icono instragram">
-        <img src="assets/icons/Twitter-icon.svg" alt="icono twitter">
-        <img src="assets/icons/facebook_icon.svg" alt="icono facebook">
+        <a href="#"><img src="assets/icons/instagram_icon.svg" alt="icono instragram"></a>
+        <a href="#"><img src="assets/icons/Twitter-icon.svg" alt="icono twitter"></a>
+        <a href="#"><img src="assets/icons/facebook_icon.svg" alt="icono facebook"></a>
+    </div>
+    <div id="credits">
+        <p>Diseñado y desarrollado por Ronald Rodríguez Campillo</p>
+        <p>Desarrollador web</p>
+        <a href="https://ronaldweb.com" target="_blank">ronaldweb.com</a>
     </div>
 </body>
 </html>

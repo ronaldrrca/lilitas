@@ -7,3 +7,20 @@
     overflow: hidden;
 }
 
+.recien_llegando_card{
+    width: 28rem;
+}
+
+.recien_llegando_card img{
+    width: 26rem;
+}
+
+#product_container{
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.product_info{
+    margin-top: 2rem;
+}

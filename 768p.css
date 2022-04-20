@@ -10,3 +10,20 @@
 #new_product{
     width: 19rem;
 }
+
+.recien_llegando_card{
+    width: 30rem;
+}
+
+.recien_llegando_card img{
+    width: 28rem;
+}
+
+.big_image{
+    width: 70%;
+    margin-left: 2rem;
+}
+
+.product_images{
+    justify-content: center;
+}
