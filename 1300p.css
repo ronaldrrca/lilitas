@@ -17,3 +17,23 @@
 #dropDown_menu{
     display: block;
 }
+
+#main_images_container{
+    height: 54rem;
+    overflow: hidden;
+}
+
+.arrow_icon{
+    width: 7rem;
+    background-color: rgba(94, 159, 171, 0.3);
+}
+
+#arrow_icon_left{
+    left: 2rem;
+    cursor: pointer;
+}
+
+#arrow_icon_right{
+    right: 2rem;
+    cursor: pointer;
+}

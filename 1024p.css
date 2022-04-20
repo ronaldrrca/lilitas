@@ -2,6 +2,8 @@
     display: none;
 }
 
-#movil_menu{
-    display: block;
+#main_images_container{
+    height: 61.4rem;
+    overflow: hidden;
 }
+

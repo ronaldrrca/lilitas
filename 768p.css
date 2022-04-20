@@ -2,6 +2,11 @@
     display: none;
 }
 
-#movil_menu{
-    display: block;
+#main_images_container{
+    height: 46rem;
+    overflow: hidden;
+}
+
+#new_product{
+    width: 19rem;
 }
