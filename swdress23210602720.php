@@ -26,16 +26,18 @@
                 </div>
                 <div class="big_image">
                     <img src="assets/images/swdress23210602720/swdress23210602720-1.webp" alt="">
-                    <p>Tallas: S, M, L.</p>
+                    <p id="size_smallScreen" class="size">Tallas: <span>S</span><span>M</span><span>L</span></p>
                 </div>
             </section>    
             <section class="product_info">
                     <h1>Vestido tal tal tal</h1> 
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam quasi inventore eius ex, cupiditate recusandae earum maiores natus in rerum necessitatibus, fugiat exercitationem maxime optio doloremque harum numquam assumenda reiciendis!</p>
+                    <p id="size_largeScreen" class="size">Tallas: <span>S</span><span>M</span><span>L</span></p>
                     <p id="product_info_price">$30.000</p>
+                    <img id="comming_soon" src="assets/images/proximamente.webp" alt=""> 
             </section> 
         </div> 
-        <img id="comming_soon" src="assets/images/proximamente.webp" alt=""> 
+        
         
     </main>
     <footer>

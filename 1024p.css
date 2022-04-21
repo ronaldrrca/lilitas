@@ -19,8 +19,24 @@
     flex-direction: row;
     align-items: flex-start;
     justify-content: center;
+    padding-right: 4rem;
 }
 
 .product_info{
-    margin-top: 2rem;
+    margin-top: 5rem;
+}
+
+#product_info_price{
+    margin-bottom: 8rem;
+    margin-top: 4rem;
+}
+
+#size_largeScreen{
+    display: flex;
+    
+}
+
+#size_smallScreen{
+    display: none;
+ 
 }
