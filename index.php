@@ -156,7 +156,7 @@
     <footer>
             <?php include 'footer.php'?>
     </footer>
-    <script src="header.js"></script>
-    <script src="index.js"></script>
+    <script src="js/header.js"></script>
+    <script src="js/index.js"></script>
 </body>
 </html>

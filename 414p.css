@@ -345,19 +345,40 @@ footer p:nth-child(2){
     overflow: hidden;
 }
 
+#bigImage_container{
+    position: relative;
+}
+
 .big_image{
     width: 88%;
     overflow: hidden;
 }
 
+#product_arrow_icon_left, #product_arrow_icon_right{
+    width: 3rem;
+    position: absolute;
+    background-color: rgba(94, 159, 171, 0.3);
+}
+
+#product_arrow_icon_left{
+    top: calc(50% - 1.5rem);
+    left: 1rem;
+}
+
+#product_arrow_icon_right{
+    top: calc(50% - 1.5rem);
+    right: 1rem;
+}
+
 .small_images img{
     width: 100%;
-    margin-bottom: 0.5rem;
+    margin-bottom: 1rem;
 }
 
 .big_image img{
     width: 100%;
     margin-bottom: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .product_info{

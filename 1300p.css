@@ -74,3 +74,11 @@
 #product_container{
     width: 80%;
 }
+
+.small_image{
+    cursor: pointer;
+}
+
+.product_arrow_icon{
+    cursor: pointer;
+}

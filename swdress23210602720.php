@@ -18,14 +18,16 @@
             <a id="whatsapp_icon" href="https://wa.me/573003581311" target="_blank"> <img src="assets/icons/whatsapp.svg" alt="icono whatsapp"></a>     
             <section class="product_images">
                 <div class="small_images">
-                    <img src="assets/images/swdress23210602720/swdress23210602720-1.webp" alt="">
-                    <img src="assets/images/swdress23210602720/swdress23210602720-2.webp" alt="">
-                    <img src="assets/images/swdress23210602720/swdress23210602720-3.webp" alt="">
-                    <img src="assets/images/swdress23210602720/swdress23210602720-4.webp" alt="">
-                    <img src="assets/images/swdress23210602720/swdress23210602720-5.webp" alt="">
+                    <img class="small_image" id="swdress23210602720_1" src="assets/images/swdress23210602720/swdress23210602720-1.webp" alt="Vestido bajo con fruncido de espalda abierta de estampado floral">
+                    <img class="small_image" id="swdress23210602720_2" src="assets/images/swdress23210602720/swdress23210602720-2.webp" alt="Vestido bajo con fruncido de espalda abierta de estampado floral">
+                    <img class="small_image" id="swdress23210602720_3" src="assets/images/swdress23210602720/swdress23210602720-3.webp" alt="Vestido bajo con fruncido de espalda abierta de estampado floral">
+                    <img class="small_image" id="swdress23210602720_4" src="assets/images/swdress23210602720/swdress23210602720-4.webp" alt="Vestido bajo con fruncido de espalda abierta de estampado floral">
+                    <img class="small_image" id="swdress23210602720_5" src="assets/images/swdress23210602720/swdress23210602720-5.webp" alt="Vestido bajo con fruncido de espalda abierta de estampado floral">
                 </div>
-                <div class="big_image">
-                    <img src="assets/images/swdress23210602720/swdress23210602720-1.webp" alt="">
+                <div id="bigImage_container" class="big_image">
+                    <img id="product_arrow_icon_left" class="product_arrow_icon" src="assets/icons/arrow-back.svg" alt="icono retroceder">
+                    <img id="product_arrow_icon_right" class="product_arrow_icon" src="assets/icons/arrow-forward.svg" alt="icono avanzar">
+                    <img id="big_image" src="assets/images/swdress23210602720/swdress23210602720-1.webp" alt="">
                     <p id="size_smallScreen" class="size">Tallas: <span>S</span><span>M</span><span>L</span></p>
                 </div>
             </section>    
@@ -43,7 +45,7 @@
     <footer>
             <?php include 'footer.php'?>
     </footer>
-    <script src="header.js"></script>
-    <!-- <script src="index.js"></script> -->
+    <script src="js/header.js"></script>
+    <script src="js/product.js"></script>
 </body>
 </html>
