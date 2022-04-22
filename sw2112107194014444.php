@@ -7,22 +7,43 @@
     <meta name="description" content="Ropa casual y deportiva para hombres y mujeres.">
     <meta name="robots" content="index.follow">
     <link rel="shortcut icon" href="#"/>
-    <title>Lilitas - top</title>
+    <title>Lilitas - vestido</title>
 </head>
 <body>
     <header>
             <?php include 'header.php'?>
     </header>
     <main>
-    <a id="whatsapp_icon" href="https://wa.me/573003581311" target="_blank"> <img src="assets/icons/whatsapp.svg" alt="icono whatsapp"></a>     
-         
-        
-        
+        <div id="product_container">
+            <a id="whatsapp_icon" href="https://wa.me/573003581311" target="_blank"> <img src="assets/icons/whatsapp.svg" alt="icono whatsapp"></a>     
+            <section class="product_images">
+                <div class="small_images">
+                    <img class="small_image" id="sw2112107194014444-1" src="assets/images/sw2112107194014444/sw2112107194014444-1.webp" alt="vestido de baño una pieza de color combinado">
+                    <img class="small_image" id="sw2112107194014444-2" src="assets/images/sw2112107194014444/sw2112107194014444-2.webp" alt="vestido de baño una pieza de color combinado">
+                    <img class="small_image" id="sw2112107194014444-3" src="assets/images/sw2112107194014444/sw2112107194014444-3.webp" alt="vestido de baño una pieza de color combinado">
+                    <img class="small_image" id="sw2112107194014444-4" src="assets/images/sw2112107194014444/sw2112107194014444-4.webp" alt="vestido de baño una pieza de color combinado">
+                </div>
+                <div id="bigImage_container" class="big_image">
+                    <img id="product_arrow_icon_left" class="product_arrow_icon" src="assets/icons/arrow-back.svg" alt="icono retroceder">
+                    <img id="product_arrow_icon_right" class="product_arrow_icon" src="assets/icons/arrow-forward.svg" alt="icono avanzar">
+                    <img id="big_image" src="assets/images/sw2112107194014444/sw2112107194014444-1.webp" alt="vestido bajo con fruncido de espalda abierta de estampado floral">
+                    <p id="size_smallScreen" class="size">Tallas: <span>S</span><span>M</span><span>L</span></p>
+                </div>
+            </section>    
+            <section class="product_info">
+                    <h1>Vestido tal tal tal</h1> 
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam quasi inventore eius ex, cupiditate recusandae earum maiores natus in rerum necessitatibus, fugiat exercitationem maxime optio doloremque harum numquam assumenda reiciendis!</p>
+                    <p id="size_largeScreen" class="size">Tallas: <span>S</span><span>M</span><span>L</span></p>
+                    <p id="product_info_price">$30.000</p>
+                    <img id="comming_soon" src="assets/images/proximamente.webp" alt=""> 
+            </section> 
+        </div> 
+        <!-- <a href="#" id="up"><button><img src="assets/icons/arrow_upward.svg" alt="icono subir"></button>  </a>     -->
     </main>
     <footer>
             <?php include 'footer.php'?>
     </footer>
-    <script src="header.js"></script>
-    <script src="index.js"></script>
+    <script src="js/header.js"></script>
+    <script src="js/product.js"></script>
 </body>
 </html>

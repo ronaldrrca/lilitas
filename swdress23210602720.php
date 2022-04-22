@@ -38,8 +38,7 @@
                     <img id="comming_soon" src="assets/images/proximamente.webp" alt=""> 
             </section> 
         </div> 
-        
-        
+        <!-- <a href="#" id="up"><button><img src="assets/icons/arrow_upward.svg" alt="icono subir"></button>  </a>        -->
     </main>
     <footer>
             <?php include 'footer.php'?>

@@ -48,7 +48,7 @@
             </a>
             <a href="swbodysui23210429486.php">
                 <figure class="recien_llegando_card">
-                    <img src="assets/images/swbodysui23210429486/swbodysui23210429486-1.webp" alt="body tejido de canalé unicolor">
+                    <img src="assets/images/swbodysui23210429486/swbodysui23210429486-1.webp" alt="body tejido de canale unicolor">
                     <p class="product_card_info product_name">Vestido tal tal tal</p>
                     <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
                     <p class="product_card_info product_price">$30.000</p>
@@ -62,7 +62,7 @@
                     <p class="product_card_info product_price">$30.000</p>
                 </figure>
             </a>
-            <a href="swblouse44210609465.php">
+            <a href="sS2002280023500162.php">
                 <figure class="recien_llegando_card">
                     <img src="assets/images/sS2002280023500162/sS2002280023500162-1.webp" alt="top corto de tirantes en abanico">
                     <p class="product_card_info product_name">Vestido tal tal tal</p>
@@ -105,7 +105,7 @@
             </a>
             <a href="sS2012020059046897.php">
                 <figure class="recien_llegando_card">
-                    <img src="assets/images/sS2012020059046897/sS2012020059046897-1.webp" alt="Vestido ajustado tejido de canalé">
+                    <img src="assets/images/sS2012020059046897/sS2012020059046897-1.webp" alt="vestido ajustado tejido de canale">
                     <p class="product_card_info product_name">Vestido tal tal tal</p>
                     <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
                     <p class="product_card_info product_price">$30.000</p>
@@ -121,7 +121,7 @@
             </a>
             <a href="sw2202212736224573.php">
                 <figure class="recien_llegando_card">
-                    <img src="assets/images/sw2202212736224573/sw2202212736224573-1.webp" alt="top de tirantes con fruncido con estampado tropical de hombros con cordón con shorts">
+                    <img src="assets/images/sw2202212736224573/sw2202212736224573-1.webp" alt="top de tirantes con fruncido con estampado tropical de hombros con cordon con shorts">
                     <p class="product_card_info product_name">Vestido tal tal tal</p>
                     <p class="product_card_info product_description">Descripción: <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci veniam non asperiores officiis blanditiis quos aliquam.</span></p>
                     <p class="product_card_info product_price">$30.000</p>
