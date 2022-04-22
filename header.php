@@ -23,14 +23,14 @@
             <img id="menu_icon" src="assets/icons/menu.svg" alt="icono de menu">
             <ul id="movil_menu">
                 <li class="movil_menu_item"><img id="close_circle" src="assets/icons/close_circle.svg" alt="icono de cerrar menu"></li>
-                <li class="movil_menu_item"><a href="#">Inicio</a></li>
+                <li class="movil_menu_item"><a href="index.php">Inicio</a></li>
                 <li class="movil_menu_item"><a href="#">Mujeres</a></li>
                 <li class="movil_menu_item"><a href="#">Hombres</a></li>
                 <!-- <li class="movil_menu_item"><a href="#">Lo nuevo</a></li> -->
                 <li class="movil_menu_item"><a href="#">Lo que viene</a></li>
             </ul>
             <ul id="dropDown_menu">
-                <li id="start_item" class="dropDown_menu_item"><a href="#">Inicio</a></li>
+                <li id="start_item" class="dropDown_menu_item"><a href="index.php">Inicio</a></li>
                 <li class="dropDown_menu_item"><a href="#">Mujeres</a></li>
                 <li class="dropDown_menu_item"><a href="#">Hombres</a></li>
                 <!-- <li class="dropDown_menu_item"><a href="#">Lo nuevo</a></li> -->

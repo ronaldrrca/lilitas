@@ -14,7 +14,8 @@
             <?php include 'header.php'?>
     </header>
     <main>
-    <a id="whatsapp_icon" href="https://wa.me/573003581311" target="_blank"> <img src="assets/icons/whatsapp.svg" alt="icono whatsapp"></a>     
+    <a id="whatsapp_icon" href="https://wa.me/573003581311" target="_blank"> <img src="assets/icons/whatsapp.svg" alt="icono whatsapp"></a>   
+    
          
         <figure id="main_images_container">
             <img id="arrow_icon_left" class="arrow_icon" src="assets/icons/arrow-back.svg" alt="icono retroceder">
@@ -152,6 +153,7 @@
             </a>
         </section>
         </section>
+        <a href="#" id="up"><button><img src="assets/icons/arrow_upward.svg" alt="icono subir"></button>  </a>
     </main>
     <footer>
             <?php include 'footer.php'?>

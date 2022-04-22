@@ -11,9 +11,12 @@
     text-decoration: none;
 }
 
+
 html{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 62.5%;
+    max-width: 150rem;
+    margin: 0 auto;
 }
 
 body{
@@ -25,7 +28,6 @@ body{
     "main"
     "footer";
     max-width: 150rem;
-    margin: 0 auto;
     background-color: #ffffff;
 }
 
@@ -34,6 +36,7 @@ header{
     position: fixed;
     width: 100%;
     z-index: 10;
+    max-width: 150rem;
 }
 
 main{
@@ -168,6 +171,21 @@ footer{
     width: 4rem;
     position: absolute;
     background-color: rgba(94, 159, 171, 0.3);
+}
+
+#up{
+    position: sticky;
+    bottom: 5px;
+    left: 94%;
+    z-index: 12;
+}
+
+#up button{
+    background-color: rgba(94, 159, 171, 0.3);
+    padding: 1rem;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
 }
 
 #arrow_icon_left{
@@ -323,6 +341,14 @@ footer p:nth-child(2){
     z-index: 9;
 }
 
+@media screen and (min-width: 1500px) {
+    #whatsapp_icon{    
+        top: 5px;
+        right: 50%;
+        z-index: 11;
+    }
+}
+
 #whatsapp_icon img{
     width: 6rem;
 }
@@ -343,6 +369,10 @@ footer p:nth-child(2){
     flex-direction: column;
     width: 10%;
     overflow: hidden;
+}
+
+.small_images img:nth-child(1){
+    border: 3px solid #333;
 }
 
 #bigImage_container{
@@ -373,6 +403,7 @@ footer p:nth-child(2){
 .small_images img{
     width: 100%;
     margin-bottom: 1rem;
+    box-sizing: border-box;
 }
 
 .big_image img{
@@ -452,3 +483,5 @@ footer p:nth-child(2){
     border-radius: 50%;
     color: #ffffff;
 }
+
+
