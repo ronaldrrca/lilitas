@@ -32,14 +32,14 @@
                 </div>
             </section>    
             <section class="product_info">
-                    <h1>Vestido tal tal tal</h1> 
+                    <h1>Vestido floral de espalda abierta con lazo fruncido</h1> 
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam quasi inventore eius ex, cupiditate recusandae earum maiores natus in rerum necessitatibus, fugiat exercitationem maxime optio doloremque harum numquam assumenda reiciendis!</p>
                     <p id="size_largeScreen" class="size">Tallas: <span>S</span><span>M</span><span>L</span></p>
-                    <p id="product_info_price">$30.000</p>
+                    <p id="product_info_price">$00.000</p>
                     <img id="comming_soon" src="assets/images/proximamente.webp" alt=""> 
             </section> 
         </div> 
-        <!-- <a href="#" id="up"><button><img src="assets/icons/arrow_upward.svg" alt="icono subir"></button>  </a>        -->
+        <!-- Recurso https://www.shein.com/Vestido-l%C3%ADnea-A-floral-de-espalda-abierta-con-cord%C3%B3n-fruncido-p-8982587-cat-1727.html?share_from=andshother&url_from=GM7238027076625211392 -->
     </main>
     <footer>
             <?php include 'footer.php'?>

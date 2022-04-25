@@ -11,9 +11,9 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="414p.css">
-    <link rel="stylesheet" href="768p.css" media="screen and (min-width: 768px)">
-    <link rel="stylesheet" href="1024p.css" media="screen and (min-width: 1024px)">
-    <link rel="stylesheet" href="1300p.css" media="screen and (min-width: 1300px)">
+<link rel="stylesheet" href="768p.css" media="screen and (min-width: 768px)">
+<link rel="stylesheet" href="1024p.css" media="screen and (min-width: 1024px)">
+<link rel="stylesheet" href="1300p.css" media="screen and (min-width: 1300px)">
 </head>
 <body>
     <div id="header_container">

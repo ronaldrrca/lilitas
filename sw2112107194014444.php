@@ -31,14 +31,14 @@
                 </div>
             </section>    
             <section class="product_info">
-                    <h1>Vestido tal tal tal</h1> 
+                    <h1>Vestido de baño de una pieza, color combinado</h1> 
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam quasi inventore eius ex, cupiditate recusandae earum maiores natus in rerum necessitatibus, fugiat exercitationem maxime optio doloremque harum numquam assumenda reiciendis!</p>
                     <p id="size_largeScreen" class="size">Tallas: <span>S</span><span>M</span><span>L</span></p>
-                    <p id="product_info_price">$30.000</p>
+                    <p id="product_info_price">$00.000</p>
                     <img id="comming_soon" src="assets/images/proximamente.webp" alt=""> 
             </section> 
         </div> 
-        <!-- <a href="#" id="up"><button><img src="assets/icons/arrow_upward.svg" alt="icono subir"></button>  </a>     -->
+        <!-- https://www.shein.com/Ba%C3%B1ador-una-pieza-de-color-combinado-con-abertura-p-8944552-cat-2193.html?share_from=andshother&url_from=GM7226846966973816832 -->
     </main>
     <footer>
             <?php include 'footer.php'?>
