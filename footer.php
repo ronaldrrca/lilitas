@@ -9,14 +9,13 @@
 <body>
     <p id="socialMedia_title">REDES SOCIALES</p>
     <div id="socialMedia_icons">
-        <a href="#"><img src="assets/icons/instagram_icon.svg" alt="icono instragram"></a>
-        <a href="#"><img src="assets/icons/Twitter-icon.svg" alt="icono twitter"></a>
-        <a href="#"><img src="assets/icons/facebook_icon.svg" alt="icono facebook"></a>
+        <a href="https://codews.co/contactanos.php"><img src="assets/icons/instagram_icon.svg" alt="icono instragram"></a>
+        <a href="https://codews.co/contactanos.php"><img src="assets/icons/Twitter-icon.svg" alt="icono twitter"></a>
+        <a href="https://codews.co/contactanos.php"><img src="assets/icons/facebook_icon.svg" alt="icono facebook"></a>
     </div>
     <div id="credits">
         <p>Diseñado y desarrollado por Ronald Rodríguez Campillo</p>
-        <p>Desarrollador web</p>
-        <a href="https://ronaldweb.com" target="_blank">ronaldweb.com</a>
+        <a href="https://codews.co" >codews.co</a>
     </div>
 </body>
 </html>

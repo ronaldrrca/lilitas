@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="desarrollo web, landing pages, paginas web, sitios web, 
+                                        aplicaciones web, diseño responsivo, web development, 
+                                        web pages, web sites, web apps, responsive design.">
+    <meta name="robots" content="index.follow">
     <title>Document</title>
     <link rel="stylesheet" href="414p.css">
-    <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> -->
-<!-- <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@500;700&display=swap" rel="stylesheet"> -->
-<link rel="stylesheet" href="414p.css">
+    <link rel="stylesheet" href="414p.css">
 <link rel="stylesheet" href="768p.css" media="screen and (min-width: 768px)">
 <link rel="stylesheet" href="1024p.css" media="screen and (min-width: 1024px)">
 <link rel="stylesheet" href="1300p.css" media="screen and (min-width: 1300px)">
@@ -18,7 +18,7 @@
 <body>
     <div id="header_container">
         <a id="home_icon" href="index.php"><img src="assets/icons/home.svg" alt="icono de home"></a>
-        <p id="name">LILITA<span>S</span></p>
+        <a href="https://codews.co/index.php"><p id="name">LILITA<span>S</span></p></a>
         <nav>
             <img id="menu_icon" src="assets/icons/menu.svg" alt="icono de menu">
             <ul id="movil_menu">

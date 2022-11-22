@@ -501,4 +501,17 @@ footer p:nth-child(2){
     color: #ffffff;
 }
 
+#consult{
+    position: absolute;
+    top: 18rem;
+    right: 0;
+    border-radius: 2px 0 0 2px;
+    background-color: #33B1FF;
+    padding: 1rem;
+    color: #fff;
+    font-size: 1.8rem;
+    font-weight: bold;
+    z-index: 1;
+}
+
 
